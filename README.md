@@ -27,6 +27,6 @@
       <a href="https://wakatech.com" target="_blank"><img height="40" style="margin-right: 20px;" src="https://wakatech.com/assets/images/svg/finallogo.svg" /></a>
     </span>
     <br/><br/><br/>
-    <p align="center" style="padding: 10px;"><span><a style="color: #FFFFFF; font-size: 18px; font-weight: bold; padding: 8px; border: 2px solid #FFFFFF;" href="./files/SUBRAMANIAN S V.pdf" download>Download My Resume</a></span></p>
+    <p align="center" style="padding: 10px;"><span><a style="color: #FFFFFF; font-size: 18px; font-weight: bold; padding: 8px; border: 2px solid #FFFFFF;" href="./files/SUBRAMANIAN S V.pdf" download>My Resume</a></span></p>
   </body>
 </html>
