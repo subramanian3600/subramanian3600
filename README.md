@@ -21,5 +21,10 @@
       <img height="40" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original-wordmark.svg" />
       <img height="40" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
     </span>
+    <h4>Project Contribution</h4>
+    <span>
+      <a href="https://thurro.com" target="blank"><img height="50" style="margin-right: 10px;" src="https://thurro.com/wp-content/uploads/2023/09/Thurro-logo-resized.png" /></a>
+      <a href="https://wakatech.com" target="blank"><img height="50" style="margin-right: 10px;" src="https://wakatech.com/assets/images/svg/finallogo.svg" /></a>
+    </span>
   </body>
 </html>
