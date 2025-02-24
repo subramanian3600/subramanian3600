@@ -24,7 +24,7 @@
     <h4>Project Contribution</h4>
     <span>
       <a href="https://thurro.com" target="_blank"><img height="40" style="margin-right: 20px;" src="https://thurro.com/wp-content/uploads/2023/09/Thurro-logo-resized.png" /></a>
-      <a href="https://wakatech.com" target="_blank"><img height="40" style="margin-right: 20px;" src="https://wakatech.com/assets/images/svg/finallogo.svg" /></a>
+      <a href="https://wakatech.com" target="_blank"><img height="40" style="margin-right: 20px;" src="https://wakatech.com/assets/images/finalogo-latest.png" /></a>
     </span>
     <br/><br/><br/>
     <p align="center" style="padding: 10px;"><span><a style="color: #FFFFFF; font-size: 18px; font-weight: bold; padding: 8px; border: 2px solid #FFFFFF;" href="./files/SUBRAMANIAN S V.pdf" download>My Resume</a></span></p>
