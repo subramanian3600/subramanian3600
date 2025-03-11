@@ -17,7 +17,7 @@
       <img height="40" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
       <img height="40" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" />
       <img height="40" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-      <img height="40" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original-wordmark.svg" />
+      <img height="40" style="margin-right: 10px;" src="https://cdn.sanity.io/images/tlf1txkp/production/a5961132c3c4791c5c2b6a38aeff177bd7282c08-1200x675.png?w=1000&h=500&fm=webp" />
       <img height="40" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original-wordmark.svg" />
       <img height="40" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
     </span>
